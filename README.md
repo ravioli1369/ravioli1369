@@ -8,3 +8,7 @@
     <img src="https://skillicons.dev/icons?i=linux,py,pytorch,flask,latex,html,css,js,ts,git,vim" />
   </a>
 </p>
+
+<!--- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravioli1369&show_icons=true&theme=transparent" />
+</p> --->
